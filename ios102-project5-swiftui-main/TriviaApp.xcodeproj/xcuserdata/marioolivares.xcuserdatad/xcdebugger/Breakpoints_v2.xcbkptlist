@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "003C8BB9-843F-4449-9045-B48A6AF96615"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "315D9981-3C03-4F15-B0EA-B27EB68F18F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TriviaApp/TriviaService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "fetchTriviaQuestions(amount:category:difficulty:type:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "315D9981-3C03-4F15-B0EA-B27EB68F18F9 - 8c23b0e85d56ff43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TriviaApp.TriviaService.fetchTriviaQuestions(amount: Swift.Int, category: Swift.String, difficulty: Swift.String, type: Swift.String, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "TriviaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marioolivares/Desktop/App/TriviaApp/TriviaApp/TriviaService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "812">
+               </Location>
+               <Location
+                  uuid = "315D9981-3C03-4F15-B0EA-B27EB68F18F9 - 8c23b0e85d56ff43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TriviaApp.TriviaService.fetchTriviaQuestions(amount: Swift.Int, category: Swift.String, difficulty: Swift.String, type: Swift.String, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "TriviaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marioolivares/Desktop/App/TriviaApp/TriviaApp/TriviaService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "968">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF34D2CF-CB90-4F79-B1BF-124611D66D5D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TriviaApp/TriviaService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "fetchTriviaQuestions(amount:category:difficulty:type:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
