@@ -1,4 +1,4 @@
-## Unit 6 Lab: FireChat
+## FireChat Apps
 
 ### Overview
 
