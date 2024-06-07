@@ -1,4 +1,4 @@
-## Unit 5 Lab: National Parks
+## National Parks
 
 ### Overview
 
